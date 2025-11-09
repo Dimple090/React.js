@@ -1,4 +1,4 @@
-
+//Default Export and Deafault Import
 
 const NetflixSeries = () => {
   const name = "Queen of Tears";
@@ -38,4 +38,5 @@ const NetflixSeries = () => {
 };
 
 export default NetflixSeries;
+
 
